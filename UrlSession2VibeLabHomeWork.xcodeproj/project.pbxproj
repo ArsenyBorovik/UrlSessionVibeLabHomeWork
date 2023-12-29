@@ -16,6 +16,7 @@
 		EAAD29EF2B3E5B7C00DB1307 /* UrlSession2VibeLabHomeWorkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAD29EE2B3E5B7C00DB1307 /* UrlSession2VibeLabHomeWorkTests.swift */; };
 		EAAD29F92B3E5B7C00DB1307 /* UrlSession2VibeLabHomeWorkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAD29F82B3E5B7C00DB1307 /* UrlSession2VibeLabHomeWorkUITests.swift */; };
 		EAAD29FB2B3E5B7C00DB1307 /* UrlSession2VibeLabHomeWorkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAD29FA2B3E5B7C00DB1307 /* UrlSession2VibeLabHomeWorkUITestsLaunchTests.swift */; };
+		EAAD2A082B3E5C2F00DB1307 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAD2A072B3E5C2F00DB1307 /* Post.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EAAD29F42B3E5B7C00DB1307 /* UrlSession2VibeLabHomeWorkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UrlSession2VibeLabHomeWorkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAAD29F82B3E5B7C00DB1307 /* UrlSession2VibeLabHomeWorkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrlSession2VibeLabHomeWorkUITests.swift; sourceTree = "<group>"; };
 		EAAD29FA2B3E5B7C00DB1307 /* UrlSession2VibeLabHomeWorkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrlSession2VibeLabHomeWorkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EAAD2A072B3E5C2F00DB1307 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				EAAD29D72B3E5B7A00DB1307 /* AppDelegate.swift */,
 				EAAD29D92B3E5B7A00DB1307 /* SceneDelegate.swift */,
 				EAAD29DB2B3E5B7A00DB1307 /* ViewController.swift */,
+				EAAD2A072B3E5C2F00DB1307 /* Post.swift */,
 				EAAD29DD2B3E5B7A00DB1307 /* Main.storyboard */,
 				EAAD29E02B3E5B7B00DB1307 /* Assets.xcassets */,
 				EAAD29E22B3E5B7B00DB1307 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				EAAD29DC2B3E5B7A00DB1307 /* ViewController.swift in Sources */,
 				EAAD29D82B3E5B7A00DB1307 /* AppDelegate.swift in Sources */,
 				EAAD29DA2B3E5B7A00DB1307 /* SceneDelegate.swift in Sources */,
+				EAAD2A082B3E5C2F00DB1307 /* Post.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
